@@ -1,5 +1,5 @@
 
-# video 10  working with Booleans
+# working with Booleans
 # This is the first program of python
 
 
@@ -13,7 +13,7 @@ else:
     print('He is not eligible to get pass')
 
 
-# video 11  working with Lists
+# working with Lists
 
 cars = ['BMW','Maruti', 'Marcedes','Tesla']
 print(len(cars))

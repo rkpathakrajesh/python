@@ -1,5 +1,4 @@
-# Create Word Documents With Python | Python Tutorial| video #17
-# https://programmer.ink/think/python-docx-operation-word-insert-the-picture-at-the-specified-location.html
+# Create Word Documents With Python
 
 from docx import Document
 from docx.shared import Inches

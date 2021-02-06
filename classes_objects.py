@@ -1,4 +1,4 @@
-# video 16  working with CLASSESS and OBJECTS
+# working with CLASSESS and OBJECTS
 
 # CLASSES HAVE PROPERTIES AND BEHAVIOURS
 """

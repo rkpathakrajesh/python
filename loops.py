@@ -1,5 +1,5 @@
 
-# video 12  working with Loops
+# Working with Loops
 
 cars = ['BMW','Maruti', 'Marcedes','Tesla','honda']
 for car in cars:
@@ -9,7 +9,7 @@ for car in cars:
         print(car.capitalize())
 
 
-# video 13  working with while Loop
+# Working with while Loop
 
 number = 0
 while number <= 10:
